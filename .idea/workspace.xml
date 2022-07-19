@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="731e4ed5-81ee-40a4-9b57-5b4fba654228" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/LongestPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practikum/Neighbours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practikum/Neighbours.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/sources/leetcode-java&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/sources/leetcode-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -46,7 +52,7 @@
       <recent name="C:\sources\leetcode-java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPrefix">
+  <component name="RunManager" selected="Application.practicum.Neighbours">
     <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pointers.LinkedList" />
       <module name="leetcode-java" />
@@ -73,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pointers.RemoveDuplicates" />
+    <configuration name="Neighbours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicum.Neighbours" />
       <module name="leetcode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pointers.*" />
+          <option name="PATTERN" value="practicum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="leetcode-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="leetcode-java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practicum.Neighbours" />
         <item itemvalue="Application.LongestPrefix" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.StrStr" />
         <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +139,9 @@
       <workItem from="1657381461467" duration="13832000" />
       <workItem from="1657450482721" duration="6400000" />
       <workItem from="1657467244530" duration="3319000" />
+      <workItem from="1657569081492" duration="245000" />
+      <workItem from="1658250953522" duration="2195000" />
+      <workItem from="1658253182526" duration="3905000" />
     </task>
     <servers />
   </component>
